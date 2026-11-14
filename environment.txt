@@ -1,0 +1,4 @@
+gcc-14 (Ubuntu 14.3.0-12ubuntu1~24~ppa1) 14.3.0
+Linux 6.8.0-1070-azure x86_64
+Model name:                              AMD EPYC 7763 64-Core Processor
+2
